@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello World</title>
+    
+    <script type="text/javascript" src = "./../common/Cesium-1.60/Build/CesiumUnminified/Cesium.js"></script>
+    <style>
+        @import url("./../common/Cesium-1.60/Build/CesiumUnminified/Widgets/widgets.css");
+        
+        html, body, #cesiumContainer {
+            width: 100%; height: 100%; margin: 0;padding: 0;overflow: hidden;
+        }
+        
+    </style>
+</head>
+<body>
+<div id = "cesiumContainer"> </div>
+<div id="loadingOverlay"><h1>Loading...</h1></div>
+<script type="text/javascript">
+    var viewer = new Cesium.Viewer('cesiumContainer');
+    
+    var dataSource = Cesium.GeoJsonDataSource.load('./russia.json');
+    
+    dataSource.then(function(data) {
+        // Change the arcType to GEODESIC, which is what it was in CesiumJS 1.53.
+        for (var i = 0; i < data.entities.values.length; i++) {
+            var entity = data.entities.values[i];
+            if (Cesium.defined(entity.polygon)) {
+                entity.polygon.arcType = Cesium.ArcType.GEODESIC;
+            }
+        }
+        viewer.dataSources.add(dataSource);
+    });
+
+</script>
+</body>
+</html>
