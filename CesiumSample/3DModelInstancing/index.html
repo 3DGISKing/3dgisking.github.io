@@ -2,21 +2,22 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Hello World</title>
+    <title>3D Model Instancing</title>
     
+    <script type="text/javascript" src="./../common/Cesium-1.60/Apps/Sandcastle/Sandcastle-header.js"></script>
     <script type="text/javascript" src = "./../common/Cesium-1.60/Build/CesiumUnminified/Cesium.js"></script>
+    
     <style>
-        @import url("./../common/Cesium-1.60/Build/CesiumUnminified/Widgets/widgets.css");
-        
-        html, body, #cesiumContainer {
-            width: 100%; height: 100%; margin: 0;padding: 0;overflow: hidden;
-        }
-        
+       @import url(./../common/Cesium-1.60/Apps/Sandcastle/templates/bucket.css);
     </style>
+    
 </head>
 <body>
-<div id = "cesiumContainer"> </div>
+
+<div id = "cesiumContainer" class="fullSize"> </div>
 <div id="loadingOverlay"><h1>Loading...</h1></div>
+<div id="toolbar"></div>
+
 <script type="text/javascript">
     var viewer = new Cesium.Viewer('cesiumContainer', {
         shouldAnimate: true
@@ -29,7 +30,9 @@
     var instancedArraysExtension = context._instancedArrays;
     var count = 1024;
     var spacing = 0.0002;
-    var url = '../../SampleData/models/CesiumAir/Cesium_Air.gltf';
+    var modelPath = '../common/Cesium-1.60/Apps/SampleData/models/';
+
+    url = modelPath + 'CesiumAir/Cesium_Air.gltf';
     var useCollection = true;
 
     var centerLongitude = -75.61209431;
@@ -173,32 +176,32 @@
             reset();
         }
     }]);
-
+    
     Sandcastle.addToolbarMenu([ {
         text : 'Aircraft',
         onselect : function() {
-            url = '../../SampleData/models/CesiumAir/Cesium_Air.gltf';
+            url = modelPath + 'CesiumAir/Cesium_Air.gltf';
             spacing = 0.0002;
             reset();
         }
     }, {
         text : 'Ground Vehicle',
         onselect : function() {
-            url = '../../SampleData/models/GroundVehicle/GroundVehicle.glb';
+            url = modelPath +  'GroundVehicle/GroundVehicle.glb';
             spacing = 0.00008;
             reset();
         }
     }, {
         text : 'Milk Truck',
         onselect : function() {
-            url = '../../SampleData/models/CesiumMilkTruck/CesiumMilkTruck.gltf';
+            url = modelPath +  'CesiumMilkTruck/CesiumMilkTruck.gltf';
             spacing = 0.00008;
             reset();
         }
     }, {
         text : 'Skinned Character',
         onselect : function() {
-            url = '../../SampleData/models/CesiumMan/Cesium_Man.gltf';
+            url = modelPath +  'CesiumMan/Cesium_Man.gltf';
             spacing = 0.00001;
             reset();
         }
@@ -237,6 +240,8 @@
     Sandcastle.addToolbarButton('3D', function() {
         scene.morphTo3D(0.0);
     });
+    
+    reset();
 
 
 </script>
