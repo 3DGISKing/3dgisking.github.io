@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <link rel="stylesheet" href="https://cesiumjs.org/releases/1.71/Build/Cesium/Widgets/widgets.css">
+    <script src="https://cesiumjs.org/releases/1.71/Build/Cesium/Cesium.js"></script>
+    <script src="./js/lib/tween.umd.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+</head>
+<body>
+
+<div id="container">
+    <div id = "cesiumContainer"></div>
+</div>
+
+
+<div id="container-myinfo" class="slide-scrim-behavior">
+    <img id="myimage" src="./images/circle-cropped.png" style="opacity: 0.9; width: 200px; height: 200px">
+    <div id="my-name" style="opacity: 1; margin: 20px;">ZhefengJin(金哲峰)</div>
+    <h1 class="ml5">
+            <span class="text-wrapper">
+            <span class="line line1" style="opacity: 1; transform: translateY(-0.625em);"></span>
+            <span class="letters letters-left" style="opacity: 1; transform: translateX(0em);">3D GIS</span>
+            <span class="letters ampersand" style="opacity: 1; transform: scaleY(1);">&amp;</span>
+            <span class="letters letters-right" style="opacity: 1; transform: translateX(0em);">CesiumGS</span>
+            <span class="letters letters-bottom"
+                  style="font-size: 20px; opacity: 1; transform: translateY(0em);">DEV</span>
+            <span class="line line2" style="opacity: 1; transform: translateY(0.625em);"></span>
+            </span>
+    </h1>
+</div>
+<div id="navigation-wrapper">
+    <div class="nav-bottom" id="menu" style="opacity: 1;">
+        <div class="flex-grow-1"></div>
+        <h3 class="nav-item" id="nav-about">ABOUT</h3>
+        <h3 class="nav-item" id="nav-projects">MY STARTUP</h3>
+        <h3 class="nav-item" id="email-to">
+            <a href="mailto:qandeel@traverous.com" id="email-link">CONTACT</a>
+        </h3>
+        <div class="flex-grow-1"></div>
+    </div>
+</div>
+
+<script src="./js/main.js"></script>
+
+</body>
+</html>

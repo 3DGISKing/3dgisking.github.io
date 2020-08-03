@@ -2,317 +2,735 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b04480a-d1b0-4940-bb01-86a1a250c402" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CesiumSample/GeoJsonPolygon/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/HelloWorld/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_0.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_10.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_11.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_12.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_13.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_14.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_15.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_16.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_17.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_18.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_19.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_20.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_21.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_22.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_23.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_24.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_25.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_26.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_27.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_6.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_8.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_9.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Images/bing_maps_credit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Images/cesium_credit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Images/google_earth_credit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Images/ion-credit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/LensFlare/DirtMask.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/LensFlare/StarBurst.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/0/0/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/0/1/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/1/0/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/1/0/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/1/1/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/1/1/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/1/2/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/1/2/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/1/3/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/1/3/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/0/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/0/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/0/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/0/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/1/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/1/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/1/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/1/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/2/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/2/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/2/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/2/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/3/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/3/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/3/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/3/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/4/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/4/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/4/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/4/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/5/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/5/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/5/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/5/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/6/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/6/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/6/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/6/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/7/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/7/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/7/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/7/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/tilemapresource.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/SkyBox/tycho2t3_80_mx.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/SkyBox/tycho2t3_80_my.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/SkyBox/tycho2t3_80_mz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/SkyBox/tycho2t3_80_px.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/SkyBox/tycho2t3_80_py.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/SkyBox/tycho2t3_80_pz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/airfield.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/airport.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/alcohol-shop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/america-football.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/art-gallery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/bakery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/bank.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/bar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/baseball.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/basketball.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/beer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/bicycle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/building.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/bus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/cafe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/camera.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/campsite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/car.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/cemetery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/cesium.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/chemist.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/cinema.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/circle-stroked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/circle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/city.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/clothing-store.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/college.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/commercial.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/cricket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/cross.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/dam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/danger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/disability.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/dog-park.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/embassy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/emergency-telephone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/entrance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/farm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/fast-food.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/ferry.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/fire-station.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/fuel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/garden.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/gift.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/golf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/grocery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/hairdresser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/harbor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/heliport.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/hospital.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/ice-cream.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/industrial.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/land-use.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/laundry.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/library.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/lighthouse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/lodging.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/logging.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/london-underground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/marker-stroked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/marker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/minefield.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/mobilephone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/monument.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/museum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/music.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/oil-well.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/park.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/park2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/parking-garage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/parking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/pharmacy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/pitch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/place-of-worship.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/playground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/police.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/polling-place.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/post.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/prison.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/rail-above.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/rail-light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/rail-metro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/rail-underground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/rail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/religious-christian.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/religious-jewish.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/religious-muslim.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/restaurant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/roadblock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/rocket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/school.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/scooter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/shop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/skiing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/slaughterhouse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/soccer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/square-stroked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/square.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/star-stroked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/suitcase.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/swimming.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/telephone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/tennis.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/theatre.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/toilets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/town-hall.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/town.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/triangle-stroked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/triangle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/village.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/warehouse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/waste-basket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/water.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/wetland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/zoo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/moonSmall.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/pin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/waterNormals.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/waterNormalsSmall.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/approximateTerrainHeights.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Cesium.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Animation/Animation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Animation/lighter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/BaseLayerPicker/BaseLayerPicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/BaseLayerPicker/lighter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Cesium3DTilesInspector/Cesium3DTilesInspector.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/CesiumInspector/CesiumInspector.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/CesiumWidget/CesiumWidget.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/CesiumWidget/lighter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/FullscreenButton/FullscreenButton.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Geocoder/Geocoder.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Geocoder/lighter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/bingAerial.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/bingAerialLabels.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/bingRoads.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/blueMarble.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/earthAtNight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/esriNationalGeographic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/esriWorldImagery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/esriWorldStreetMap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/mapQuestOpenStreetMap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/mapboxSatellite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/mapboxStreets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/mapboxTerrain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/naturalEarthII.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/openStreetMap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/sentinel-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/stamenToner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/stamenWatercolor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/NavigationHelp/Mouse.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/NavigationHelp/MouseLeft.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/NavigationHelp/MouseMiddle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/NavigationHelp/MouseRight.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/NavigationHelp/Touch.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/NavigationHelp/TouchDrag.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/NavigationHelp/TouchRotate.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/NavigationHelp/TouchTilt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/NavigationHelp/TouchZoom.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/TerrainProviders/CesiumWorldTerrain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/TerrainProviders/Ellipsoid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/TimelineIcons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/info-loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/InfoBox/InfoBox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/InfoBox/InfoBoxDescription.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/NavigationHelpButton/NavigationHelpButton.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/NavigationHelpButton/lighter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/PerformanceWatchdog/PerformanceWatchdog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/ProjectionPicker/ProjectionPicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/SceneModePicker/SceneModePicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/SelectionIndicator/SelectionIndicator.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Timeline/Timeline.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Timeline/lighter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/VRButton/VRButton.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Viewer/Viewer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/lighter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/lighterShared.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/shared.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/widgets.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/cesiumWorkerBootstrapper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/combineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createBoxGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createBoxOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createCircleGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createCircleOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createCoplanarPolygonGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createCoplanarPolygonOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createCorridorGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createCorridorOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createCylinderGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createCylinderOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createEllipseGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createEllipseOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createEllipsoidGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createEllipsoidOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createFrustumGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createFrustumOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createGroundPolylineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createPlaneGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createPlaneOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createPolygonGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createPolygonOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createPolylineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createPolylineVolumeGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createPolylineVolumeOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createRectangleGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createRectangleOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createSimplePolylineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createSphereGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createSphereOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createVectorTileGeometries.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createVectorTilePoints.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createVectorTilePolygons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createVectorTilePolylines.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createVerticesFromGoogleEarthEnterpriseBuffer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createVerticesFromHeightmap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createVerticesFromQuantizedTerrainMesh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createWallGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createWallOutlineGeometry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/decodeDraco.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/decodeGoogleEarthEnterprisePacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/transcodeCRNToDXT.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/transferTypedArrayTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/upsampleQuantizedTerrainMesh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ugi.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Batched/BatchedColors/batchedColors.b3dm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Batched/BatchedColors/tileset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Batched/BatchedTranslucent/batchedTranslucent.b3dm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Batched/BatchedTranslucent/tileset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Batched/BatchedTranslucentOpaqueMix/batchedTranslucentOpaqueMix.b3dm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Batched/BatchedTranslucentOpaqueMix/tileset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Batched/BatchedWithBatchTable/batchedWithBatchTable.b3dm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Batched/BatchedWithBatchTable/tileset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Classification/Photogrammetry/content.b3dm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Classification/Photogrammetry/tileset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Classification/PointCloud/content.geom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Classification/PointCloud/tileset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Composite/Composite/composite.cmpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Composite/Composite/tileset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Hierarchy/BatchTableHierarchy/tile.b3dm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Hierarchy/BatchTableHierarchy/tileset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Instanced/InstancedOrientation/instancedOrientation.i3dm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Instanced/InstancedOrientation/tileset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Instanced/InstancedWithBatchTable/instancedWithBatchTable.i3dm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Instanced/InstancedWithBatchTable/tileset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/PointCloud/PointCloudBatched/pointCloudBatched.pnts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/PointCloud/PointCloudBatched/tileset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/PointCloud/PointCloudConstantColor/pointCloudConstantColor.pnts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/PointCloud/PointCloudConstantColor/tileset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/PointCloud/PointCloudDraco/pointCloudDraco.pnts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/PointCloud/PointCloudDraco/tileset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/PointCloud/PointCloudNormals/pointCloudNormals.pnts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/PointCloud/PointCloudNormals/tileset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/PointCloud/PointCloudRGB/pointCloudRGB.pnts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/PointCloud/PointCloudRGB/tileset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/PointCloud/PointCloudTimeDynamic/0.pnts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/PointCloud/PointCloudTimeDynamic/1.pnts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/PointCloud/PointCloudTimeDynamic/2.pnts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/PointCloud/PointCloudTimeDynamic/3.pnts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/PointCloud/PointCloudTimeDynamic/4.pnts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/PointCloud/PointCloudWithPerPointProperties/pointCloudWithPerPointProperties.pnts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/PointCloud/PointCloudWithPerPointProperties/tileset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Tilesets/Tileset/ll.b3dm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Tilesets/Tileset/lr.b3dm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Tilesets/Tileset/parent.b3dm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Tilesets/Tileset/tileset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Tilesets/Tileset/ul.b3dm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Tilesets/Tileset/ur.b3dm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Tilesets/TilesetWithViewerRequestVolume/ll.b3dm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Tilesets/TilesetWithViewerRequestVolume/lr.b3dm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Tilesets/TilesetWithViewerRequestVolume/points.pnts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Tilesets/TilesetWithViewerRequestVolume/tileset.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Tilesets/TilesetWithViewerRequestVolume/ul.b3dm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Cesium3DTiles/Tilesets/TilesetWithViewerRequestVolume/ur.b3dm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/ClampToGround.czml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/EnvironmentMap/kiara_6_afternoon_2k_ibl.ktx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/MultipartVehicle_part1.czml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/MultipartVehicle_part2.czml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/MultipartVehicle_part3.czml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/Vehicle.czml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/circular_particle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/fire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/kml/bikeRide.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/kml/eiffel-tower-flyto.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/kml/facilities/GroundStation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/kml/facilities/LaserStation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/kml/facilities/LaunchPad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/kml/facilities/LaunchSite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/kml/facilities/OpticalTrackingStation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/kml/facilities/RadarStation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/kml/facilities/facilities.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/kml/gdpPerCapita2008.kmz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumAir/0_Cesium_Air.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumAir/1_Cesium_Air_Prop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumAir/Cesium_Air.dae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumAir/Cesium_Air.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumAir/Cesium_Air.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumBalloon/CesiumBalloon.dae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumBalloon/CesiumBalloon.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumBalloon/CesiumBalloonPrint_singleDot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumBalloon/FlameGrate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumBalloon/WickerRepeat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumMan/Cesium_Man.dae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumMan/Cesium_Man.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumMan/Cesium_Man.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumMan/Cesium_Man.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumMilkTruck/CesiumMilkTruck-kmc.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumMilkTruck/CesiumMilkTruck-kmc.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumMilkTruck/CesiumMilkTruck.dae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumMilkTruck/CesiumMilkTruck.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumMilkTruck/CesiumMilkTruck.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/CesiumMilkTruck/CesiumMilkTruck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/DracoCompressed/0.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/DracoCompressed/CesiumMilkTruck.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/DracoCompressed/CesiumMilkTruck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/GroundVehicle/GroundVehicle.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/Pawns/Pawns.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/ShadowTester/Shadow_Tester.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/ShadowTester/Shadow_Tester_2.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/ShadowTester/Shadow_Tester_3.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/ShadowTester/Shadow_Tester_4.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/ShadowTester/Shadow_Tester_Point.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/ShadowTester/Shadow_Transparent.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/models/WoodTower/Wood_Tower.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/ne_10m_us_states.topojson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/population909500.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/simple.czml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/simplestyles.geojson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/smoke.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/SampleData/snowflake_particle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/Sandcastle/Sandcastle-header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Apps/Sandcastle/templates/bucket.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_26.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_27.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Images/bing_maps_credit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Images/cesium_credit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Images/google_earth_credit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Images/ion-credit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/LensFlare/DirtMask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/LensFlare/StarBurst.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/0/0/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/0/1/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/1/0/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/1/0/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/1/1/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/1/1/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/1/2/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/1/2/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/1/3/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/1/3/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/0/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/0/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/0/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/0/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/1/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/1/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/1/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/1/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/2/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/2/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/2/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/2/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/3/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/3/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/3/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/3/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/4/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/4/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/4/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/4/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/5/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/5/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/5/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/5/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/6/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/6/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/6/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/6/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/7/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/7/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/7/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/2/7/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/NaturalEarthII/tilemapresource.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/SkyBox/tycho2t3_80_mx.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/SkyBox/tycho2t3_80_my.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/SkyBox/tycho2t3_80_mz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/SkyBox/tycho2t3_80_px.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/SkyBox/tycho2t3_80_py.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/SkyBox/tycho2t3_80_pz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/airfield.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/airport.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/alcohol-shop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/america-football.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/art-gallery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/bakery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/bank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/baseball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/basketball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/beer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/bicycle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/building.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/bus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/cafe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/campsite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/car.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/cemetery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/cesium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/chemist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/cinema.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/circle-stroked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/city.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/clothing-store.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/college.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/commercial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/cricket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/cross.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/dam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/danger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/disability.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/dog-park.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/embassy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/emergency-telephone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/entrance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/farm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/fast-food.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/ferry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/fire-station.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/fuel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/garden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/gift.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/golf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/grocery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/hairdresser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/harbor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/heliport.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/hospital.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/ice-cream.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/industrial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/land-use.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/laundry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/library.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/lighthouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/lodging.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/logging.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/london-underground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/marker-stroked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/minefield.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/mobilephone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/monument.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/museum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/music.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/oil-well.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/park.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/park2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/parking-garage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/parking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/pharmacy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/pitch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/place-of-worship.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/playground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/police.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/polling-place.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/post.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/prison.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/rail-above.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/rail-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/rail-metro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/rail-underground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/rail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/religious-christian.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/religious-jewish.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/religious-muslim.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/restaurant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/roadblock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/rocket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/school.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/scooter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/shop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/skiing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/slaughterhouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/soccer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/square-stroked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/square.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/star-stroked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/suitcase.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/swimming.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/telephone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/tennis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/theatre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/toilets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/town-hall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/town.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/triangle-stroked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/triangle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/village.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/warehouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/waste-basket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/water.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/wetland.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/maki/zoo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/moonSmall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/pin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/waterNormals.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/Textures/waterNormalsSmall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Assets/approximateTerrainHeights.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Cesium.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Animation/Animation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Animation/lighter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/BaseLayerPicker/BaseLayerPicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/BaseLayerPicker/lighter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Cesium3DTilesInspector/Cesium3DTilesInspector.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/CesiumInspector/CesiumInspector.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/CesiumWidget/CesiumWidget.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/CesiumWidget/lighter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/FullscreenButton/FullscreenButton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Geocoder/Geocoder.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Geocoder/lighter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/ImageryProviders/bingAerial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/ImageryProviders/bingAerialLabels.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/ImageryProviders/bingRoads.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/ImageryProviders/blueMarble.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/ImageryProviders/earthAtNight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/ImageryProviders/esriNationalGeographic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/ImageryProviders/esriWorldImagery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/ImageryProviders/esriWorldStreetMap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/ImageryProviders/mapQuestOpenStreetMap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/ImageryProviders/mapboxSatellite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/ImageryProviders/mapboxStreets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/ImageryProviders/mapboxTerrain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/ImageryProviders/naturalEarthII.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/ImageryProviders/openStreetMap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/ImageryProviders/sentinel-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/ImageryProviders/stamenToner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/ImageryProviders/stamenWatercolor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/NavigationHelp/Mouse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/NavigationHelp/MouseLeft.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/NavigationHelp/MouseMiddle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/NavigationHelp/MouseRight.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/NavigationHelp/Touch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/NavigationHelp/TouchDrag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/NavigationHelp/TouchRotate.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/NavigationHelp/TouchTilt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/NavigationHelp/TouchZoom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/TerrainProviders/CesiumWorldTerrain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/TerrainProviders/Ellipsoid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/TimelineIcons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Images/info-loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/InfoBox/InfoBox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/InfoBox/InfoBoxDescription.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/NavigationHelpButton/NavigationHelpButton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/NavigationHelpButton/lighter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/PerformanceWatchdog/PerformanceWatchdog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/ProjectionPicker/ProjectionPicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/SceneModePicker/SceneModePicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/SelectionIndicator/SelectionIndicator.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Timeline/Timeline.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Timeline/lighter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/VRButton/VRButton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/Viewer/Viewer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/lighter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/lighterShared.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/shared.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Widgets/widgets.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/cesiumWorkerBootstrapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/combineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createBoxGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createBoxOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createCircleGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createCircleOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createCoplanarPolygonGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createCoplanarPolygonOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createCorridorGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createCorridorOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createCylinderGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createCylinderOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createEllipseGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createEllipseOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createEllipsoidGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createEllipsoidOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createFrustumGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createFrustumOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createGroundPolylineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createPlaneGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createPlaneOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createPolygonGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createPolygonOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createPolylineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createPolylineVolumeGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createPolylineVolumeOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createRectangleGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createRectangleOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createSimplePolylineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createSphereGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createSphereOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createVectorTileGeometries.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createVectorTilePoints.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createVectorTilePolygons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createVectorTilePolylines.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createVerticesFromGoogleEarthEnterpriseBuffer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createVerticesFromHeightmap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createVerticesFromQuantizedTerrainMesh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createWallGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/createWallOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/decodeDraco.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/decodeGoogleEarthEnterprisePacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/transcodeCRNToDXT.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/transferTypedArrayTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/Cesium/Workers/upsampleQuantizedTerrainMesh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_26.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_27.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/IAU2006_XYS/IAU2006_XYS_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Images/bing_maps_credit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Images/cesium_credit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Images/google_earth_credit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Images/ion-credit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/LensFlare/DirtMask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/LensFlare/StarBurst.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/0/0/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/0/1/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/1/0/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/1/0/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/1/1/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/1/1/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/1/2/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/1/2/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/1/3/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/1/3/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/0/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/0/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/0/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/0/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/1/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/1/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/1/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/1/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/2/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/2/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/2/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/2/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/3/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/3/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/3/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/3/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/4/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/4/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/4/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/4/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/5/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/5/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/5/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/5/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/6/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/6/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/6/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/6/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/7/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/7/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/7/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/2/7/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/NaturalEarthII/tilemapresource.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/SkyBox/tycho2t3_80_mx.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/SkyBox/tycho2t3_80_my.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/SkyBox/tycho2t3_80_mz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/SkyBox/tycho2t3_80_px.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/SkyBox/tycho2t3_80_py.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/SkyBox/tycho2t3_80_pz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/airfield.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/airport.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/alcohol-shop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/america-football.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/art-gallery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/bakery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/bank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/baseball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/basketball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/beer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/bicycle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/building.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/bus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/cafe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/campsite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/car.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/cemetery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/cesium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/chemist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/cinema.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/circle-stroked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/city.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/clothing-store.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/college.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/commercial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/cricket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/cross.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/dam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/danger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/disability.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/dog-park.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/embassy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/emergency-telephone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/entrance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/farm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/fast-food.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/ferry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/fire-station.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/fuel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/garden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/gift.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/golf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/grocery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/hairdresser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/harbor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/heliport.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/hospital.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/ice-cream.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/industrial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/land-use.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/laundry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/library.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/lighthouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/lodging.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/logging.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/london-underground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/marker-stroked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/minefield.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/mobilephone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/monument.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/museum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/music.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/oil-well.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/park.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/park2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/parking-garage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/parking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/pharmacy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/pitch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/place-of-worship.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/playground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/police.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/polling-place.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/post.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/prison.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/rail-above.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/rail-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/rail-metro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/rail-underground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/rail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/religious-christian.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/religious-jewish.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/religious-muslim.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/restaurant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/roadblock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/rocket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/school.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/scooter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/shop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/skiing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/slaughterhouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/soccer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/square-stroked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/square.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/star-stroked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/suitcase.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/swimming.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/telephone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/tennis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/theatre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/toilets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/town-hall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/town.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/triangle-stroked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/triangle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/village.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/warehouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/waste-basket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/water.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/wetland.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/maki/zoo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/moonSmall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/pin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/waterNormals.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/Textures/waterNormalsSmall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Assets/approximateTerrainHeights.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Cesium.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Animation/Animation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Animation/lighter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/BaseLayerPicker/BaseLayerPicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/BaseLayerPicker/lighter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Cesium3DTilesInspector/Cesium3DTilesInspector.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/CesiumInspector/CesiumInspector.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/CesiumWidget/CesiumWidget.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/CesiumWidget/lighter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/FullscreenButton/FullscreenButton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Geocoder/Geocoder.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Geocoder/lighter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/bingAerial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/bingAerialLabels.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/bingRoads.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/blueMarble.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/earthAtNight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/esriNationalGeographic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/esriWorldImagery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/esriWorldStreetMap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/mapQuestOpenStreetMap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/mapboxSatellite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/mapboxStreets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/mapboxTerrain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/naturalEarthII.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/openStreetMap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/sentinel-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/stamenToner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/ImageryProviders/stamenWatercolor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/NavigationHelp/Mouse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/NavigationHelp/MouseLeft.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/NavigationHelp/MouseMiddle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/NavigationHelp/MouseRight.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/NavigationHelp/Touch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/NavigationHelp/TouchDrag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/NavigationHelp/TouchRotate.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/NavigationHelp/TouchTilt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/NavigationHelp/TouchZoom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/TerrainProviders/CesiumWorldTerrain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/TerrainProviders/Ellipsoid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/TimelineIcons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Images/info-loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/InfoBox/InfoBox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/InfoBox/InfoBoxDescription.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/NavigationHelpButton/NavigationHelpButton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/NavigationHelpButton/lighter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/PerformanceWatchdog/PerformanceWatchdog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/ProjectionPicker/ProjectionPicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/SceneModePicker/SceneModePicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/SelectionIndicator/SelectionIndicator.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Timeline/Timeline.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Timeline/lighter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/VRButton/VRButton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/Viewer/Viewer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/lighter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/lighterShared.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/shared.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Widgets/widgets.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/cesiumWorkerBootstrapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/combineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createBoxGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createBoxOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createCircleGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createCircleOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createCoplanarPolygonGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createCoplanarPolygonOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createCorridorGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createCorridorOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createCylinderGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createCylinderOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createEllipseGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createEllipseOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createEllipsoidGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createEllipsoidOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createFrustumGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createFrustumOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createGroundPolylineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createPlaneGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createPlaneOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createPolygonGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createPolygonOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createPolylineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createPolylineVolumeGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createPolylineVolumeOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createRectangleGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createRectangleOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createSimplePolylineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createSphereGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createSphereOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createVectorTileGeometries.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createVectorTilePoints.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createVectorTilePolygons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createVectorTilePolylines.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createVerticesFromGoogleEarthEnterpriseBuffer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createVerticesFromHeightmap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createVerticesFromQuantizedTerrainMesh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createWallGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/createWallOutlineGeometry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/decodeDraco.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/decodeGoogleEarthEnterprisePacket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/transcodeCRNToDXT.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/transferTypedArrayTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Build/CesiumUnminified/Workers/upsampleQuantizedTerrainMesh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CesiumSample/common/Cesium-1.60/Source/Widgets/Images/TimelineIcons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -324,21 +742,50 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CesiumSample/HelloWorld/index.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+            <state relative-caret-position="359">
+              <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#span#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#1056#1061#1" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#span#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#4;n#span#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#5;n#span#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CesiumSample/GeoJsonPolygon/index.html">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/lib/tween.umd.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="44" column="44" lean-forward="true" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="733" lean-forward="true" selection-start-line="733" selection-end-line="733" />
             </state>
           </provider>
         </entry>
@@ -349,6 +796,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -365,6 +814,9 @@
       <list>
         <option value="$PROJECT_DIR$/CesiumSample/HelloWorld/index.html" />
         <option value="$PROJECT_DIR$/CesiumSample/GeoJsonPolygon/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
   </component>
@@ -373,16 +825,6 @@
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/3dgisking.github.io.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1672" />
@@ -396,6 +838,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -406,38 +849,32 @@
             <path>
               <item name="3dgisking.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="3dgisking.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="CesiumSample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="3dgisking.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3dgisking.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="CesiumSample" type="462c0819:PsiDirectoryNode" />
-              <item name="GeoJsonPolygon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="3dgisking.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3dgisking.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="CesiumSample" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CesiumSample/GeoJsonPolygon" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js/lib" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\MyResearch\3dgisking.github.io\images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MyResearch\3dgisking.github.io\js\lib" />
+      <recent name="E:\MyResearch\3dgisking.github.io" />
       <recent name="E:\My Research\3dgisking.github.io\CesiumSample\GeoJsonPolygon" />
       <recent name="E:\My Research\3dgisking.github.io\CesiumSample\common" />
     </key>
@@ -454,8 +891,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/3dgisking.github.io/CesiumSample/GeoJsonPolygon/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/3dgisking.github.io/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/3dgisking.github.io/CesiumSample/HelloWorld/index.html" useBuiltInWebServerPort="true">
@@ -463,6 +903,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
@@ -479,23 +920,20 @@
       <option name="presentableId" value="Default" />
       <updated>1565978651988</updated>
       <workItem from="1565978655963" duration="1759000" />
+      <workItem from="1596472199541" duration="3623000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1759000" />
+    <option name="totallyTimeSpent" value="5382000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1672" y="-229" width="1936" height="1056" extended-state="6" />
+    <frame x="1672" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19125395" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13856691" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -503,6 +941,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -522,7 +964,7 @@
     <entry file="file://$PROJECT_DIR$/CesiumSample/HelloWorld/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -530,6 +972,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CesiumSample/3DModelInstancing/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1464">
+          <caret line="243" column="12" selection-start-line="243" selection-start-column="12" selection-end-line="243" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="733" lean-forward="true" selection-start-line="733" selection-end-line="733" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/tween.umd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="44" lean-forward="true" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#span#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1056#1061#1" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#span#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#4;n#span#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#5;n#span#0;n#h1#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
